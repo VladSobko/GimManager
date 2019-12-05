@@ -1,0 +1,23 @@
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\bin\Debug\Спортзал.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.Form2.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\bin\Debug\Спортзал.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\bin\Debug\Спортзал.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.Form3.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.Form4.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.Form5.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.EditData.AddVisitorsForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.EditData.AddCoachesForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.EditData.AddTrainingForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.Form6.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.Form7.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.Form8.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Спортзал\obj\Debug\Спортзал.Form9.resources
+C:\Users\Администратор\Documents\Спортзал\Спортзал\bin\Debug\Спортзал.exe.config
+C:\Users\Администратор\Documents\Спортзал\Спортзал\obj\Debug\Спортзал.exe
+C:\Users\Администратор\Documents\Спортзал\Спортзал\obj\Debug\Спортзал.pdb
